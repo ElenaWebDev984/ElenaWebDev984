@@ -8,7 +8,12 @@
 
 ![](https://komarev.com/ghpvc/?username=ElenaWebDev984)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaWebDev984&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Codwears badge](https://www.codewars.com/users/ElenaWebDev984/badges/large)](https://www.codewars.com/users/ElenaWebDev984)
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -27,11 +32,12 @@
 </div>
 
 
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElenaWebDev984&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaWebDev984&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
     
 
