@@ -10,6 +10,7 @@
 
 [![Codwears badge](https://www.codewars.com/users/ElenaWebDev984/badges/large)](https://www.codewars.com/users/ElenaWebDev984)
 
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -25,8 +26,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ssh/ssh-original-wordmark.svg" title="ssh"  alt="ssh" width="40" height="40"/>&nbsp;
 </div>
 
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElenaWebDev984&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaWebDev984&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
     
 
