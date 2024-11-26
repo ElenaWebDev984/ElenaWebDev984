@@ -33,8 +33,8 @@
 
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElenaWebDev984&theme=hacker&background=000000)](https://git.io/streak-stats)
+h
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElenaWebDev984&theme=blood-dark&background=000000)](https://git.io/streak-stats)
 
 
 
