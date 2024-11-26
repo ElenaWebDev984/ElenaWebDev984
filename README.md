@@ -9,8 +9,7 @@
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaWebDev984&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaWebDev984&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Codwears badge](https://www.codewars.com/users/ElenaWebDev984/badges/large)](https://www.codewars.com/users/ElenaWebDev984)
 
