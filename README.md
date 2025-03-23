@@ -7,16 +7,15 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWxsdXJydzNrMDE4c3cwOXcyMXAybXB4N2F5NThpcHR6N2xjNDNwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
 
   ![](https://komarev.com/ghpvc/?username=ElenaWebDev984)
+
+  <p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaWebDev984&exclude_repo=KNN-Image-Classification&show_icons=true&border_radius=10&layout=compact&langs_count=8&theme=radical" draggable="false"/>
+</p>
   
 </div>
 
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaWebDev984&exclude_repo=KNN-Image-Classification&show_icons=true&border_radius=10&layout=compact&langs_count=8&theme=radical" draggable="false"/>
-</p>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaWebDev984&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Codwears badge](https://www.codewars.com/users/ElenaWebDev984/badges/large)](https://www.codewars.com/users/ElenaWebDev984)
 
