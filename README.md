@@ -10,6 +10,9 @@
   
 </div>
 
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaWebDev984&exclude_repo=KNN-Image-Classification&show_icons=true&border_radius=10&layout=compact&langs_count=8&theme=radical" draggable="false"/>
+</p>
 
 
 
