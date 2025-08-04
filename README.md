@@ -19,8 +19,8 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div align='center'>
     <a href='http://skillicons.dev'>
-        <img src='http://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,sass,less' alt='Languages icons'/>
-        <img src='http://skillicons.dev/icons?i=vscode,webstorm,git,github,stackoverflow,figma,bootstrap,npm,yarn,pnpm,vite,vue,nodejs' alt='Software icons'/>
+        <img src='http://skillicons.dev/icons?i=html,css,js,ts,redux,react,angular,vue,styledcomponents,sass,less' alt=languages'/>
+        <img src='http://skillicons.dev/icons?i=vscode,webstorm,git,github,stackoverflow,figma,bootstrap,yarn,npm,pnpm,vite,vitest,nodejs,materialui' alt='software'/>
     </a>
 </div>
   
