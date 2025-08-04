@@ -8,13 +8,15 @@
 
   ![](https://komarev.com/ghpvc/?username=ElenaWebDev984)
 
+  [![Codwears badge](https://www.codewars.com/users/ElenaWebDev984/badges/large)](https://www.codewars.com/users/ElenaWebDev984)
+
 <div>
      <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElenaWebDev984&exclude_repo=KNN-Image-Classification&show_icons=true&border_radius=10&layout=compact&langs_count=8&theme=radical" draggable="false"/>
 </p>
 </div>
 
-[![Codwears badge](https://www.codewars.com/users/ElenaWebDev984/badges/large)](https://www.codewars.com/users/ElenaWebDev984)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align='center'>
