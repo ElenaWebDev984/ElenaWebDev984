@@ -16,6 +16,10 @@
 </p>
 </div>
 
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=ElenaWebDev984&theme=dracula&title=-Stars,-Reviews&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -24,14 +28,6 @@
         <img src='http://skillicons.dev/icons?i=html,css,js,ts,redux,react,angular,vue,styledcomponents,sass,less' alt=languages'/>
         <img src='http://skillicons.dev/icons?i=vscode,webstorm,git,github,stackoverflow,figma,bootstrap,yarn,npm,pnpm,vite,vitest,nodejs,materialui' alt='software'/>
     </a>
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align='center'>
-   <p>
-       ![](https://github-profile-trophy.vercel.app/?username=ElenaWebDev984&theme=dracula&title=-Stars,-Reviews&no-frame=false&no-bg=true&margin-w=4)
-   </p>
 </div>
   
 </div>
