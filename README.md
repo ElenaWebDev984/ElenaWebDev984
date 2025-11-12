@@ -24,11 +24,6 @@
         <img src='http://skillicons.dev/icons?i=vscode,webstorm,git,github,stackoverflow,figma,bootstrap,yarn,npm,pnpm,vite,vitest,nodejs,materialui' alt='software'/>
     </a>
 </div>
-
-
-### 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ElenaWebDev984&theme=dracula&title=-Stars,-Reviews&no-bg=true&margin-w=14&align=center)
   
 </div>
 
