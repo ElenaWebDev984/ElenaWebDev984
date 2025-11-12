@@ -28,7 +28,7 @@
 
 ### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=ElenaWebDev984&theme=dracula&title=-Stars,-Reviews&no-frame=false&no-bg=true&margin-w=14&align=center)
+![](https://github-profile-trophy.vercel.app/?username=ElenaWebDev984&theme=dracula&title=-Stars,-Reviews&no-bg=true&margin-w=14&align=center)
   
 </div>
 
